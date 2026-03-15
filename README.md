@@ -22,13 +22,6 @@ Traditional disaster monitoring systems often lack the spatial depth and real-ti
 *   **Iconography**: [Lucide React](https://lucide.dev/)
 *   **Engine Tools**: D3-geo, TopoJSON, World Atlas
 
-## 🛤️ User Flow
-1.  **Phase I: Planetary Intro**: Landing on a minimalist, interactive 3D Earth to establish global context.
-2.  **Phase II: Geographic Selection**: Transitioning to a topological world map to pinpoint regional interests.
-3.  **Phase III: Operational Dashboard**: Entry into the 3D Command & Control center focused on Malaysia.
-4.  **Phase IV: Threat Analysis**: Interactive probing of tactical markers to reveal underlying environmental stressors.
-5.  **Phase V: Response Execution**: Generation of animated evacuation routes for active threat mitigation.
-
 ## 🚥 Getting Started
 
 ### Prerequisites
