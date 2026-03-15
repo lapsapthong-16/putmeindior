@@ -1,6 +1,5 @@
-# PutMeInDior: Threat Intelligence & Geospatial Visualization
+# Jarvis: Threat Intelligence & Geospatial Visualization
 
-![PutMeInDior Preview](https://github.com/user-attachments/assets/placeholder-image.png)
 
 ## ⚠️ Problem Statement
 Traditional disaster monitoring systems often lack the spatial depth and real-time interactive context required for effective emergency response. When dealing with dynamic threats like floods and landslides, stakeholders need more than just static markers on a flat map; they require an immersive, high-resolution visualization that bridges the gap between global trends and hyper-local impact.
