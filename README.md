@@ -1,6 +1,5 @@
 # Jarvis: Threat Intelligence & Geospatial Visualization
 
-
 ## ⚠️ Problem Statement
 Traditional disaster monitoring systems often lack the spatial depth and real-time interactive context required for effective emergency response. When dealing with dynamic threats like floods and landslides, stakeholders need more than just static markers on a flat map; they require an immersive, high-resolution visualization that bridges the gap between global trends and hyper-local impact.
 
@@ -66,4 +65,4 @@ Traditional disaster monitoring systems often lack the spatial depth and real-ti
 *   `npm run postinstall`: Automatic utility to maintain Cesium asset integrity in the public directory.
 
 ---
-Built with ❤️ for Geospatial Excellence.
+Built with ❤️ KitaHack 2026.
